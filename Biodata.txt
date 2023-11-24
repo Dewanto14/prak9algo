@@ -1,0 +1,5 @@
+nama: Dewanto
+umur: 18
+alamat: Jl Warakas
+email: dewanto@gmail.com
+dosen wali: Pak Syaifudin
